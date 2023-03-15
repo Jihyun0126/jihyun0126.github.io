@@ -8,28 +8,27 @@ version: 2
 # Personal info
 name: 유지현
 title: 학생
-email: 123dkdk@gmailc.om
+email: 123dkdk@gmail.com
 # email_title: Email (Email title override)
 phone: 010-0000-0000
 # phone_title: Phone (Phone title override)
-website: Your website (eg. https://google.com)(optional)
-# website_title: Web (Website title override)
+website: www.naver.com
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: jekyllrb
+twitter_username: jihyun0126
 github_username:  jihyun0126
 stackoverflow_username: "00000001"
-dribbble_username: jekyll
-facebook_username: jekyll
-flickr_username: jekyll
-instagram_username: jekyll
-linkedin_username: jekyll
-xing_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
+dribbble_username: jihyun0126
+facebook_username: jihyun0126
+flickr_username: jihyun0126
+instagram_username: jihyun0126
+linkedin_username: jihyun0126
+xing_username: jihyun0126
+pinterest_username: jihyun0126
+youtube_username: jihyun0126
 orcid_username: 0000-0000-0000-0000
 googlescholar_username: D847cGsAAAAJ
 
@@ -52,8 +51,7 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: 1.jpg
 about_content: | # this will include new lines to allow paragraphs
-  안녕하세요 학생입니다. 
-  add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  안녕하세요 학생입니다.
 
   You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
     - Lists
